@@ -2,7 +2,7 @@
   <nav>
     <a href="" class="logo">Logo</a>
     <ul>
-      <li><a href="#">Home</a></li>
+      <li><a href="#" class="active">Home</a></li>
       <li><a href="#">About</a></li>
       <li><a href="#">Package</a></li>
       <li><a href="#">Contact</a></li>
